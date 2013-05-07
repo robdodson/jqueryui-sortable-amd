@@ -13,6 +13,6 @@
     "Gruntfile.js"
   ],
   "dependencies": {
-    "require-jquery": "https://github.com/jrburke/require-jquery.git"
+    "require-jquery": "dxc/require-jquery#~1.9.1"
   }
 }
