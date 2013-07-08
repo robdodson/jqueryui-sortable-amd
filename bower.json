@@ -13,6 +13,6 @@
     "Gruntfile.js"
   ],
   "dependencies": {
-    "jquery": "dxc/require-jquery#~1.9.1"
+    "jquery": "~1.10.0"
   }
 }
